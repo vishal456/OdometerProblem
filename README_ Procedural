@@ -1,0 +1,7 @@
+Input : Number of digits
+Functionalities:
+getMinimumDistancePossible(int numOfDigit);
+getMaximumDistancePossible(int numOfDigit);
+getNextReading(int previousReading);
+getListOfReadings(int startReading, int numOfReadings);
+
